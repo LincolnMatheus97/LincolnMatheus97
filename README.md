@@ -23,7 +23,7 @@
   <img align="center" alt="CSS" height="40" width="40" title="CSS" src="https://github.com/user-attachments/assets/534753da-1b2f-46dd-b5d1-b89351b04d71">
 </div>
 
-<div align="center">  
+<div align="center"><br> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LincolnMatheus97&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnMatheus97&layout=compact&hide_border=true&title_color=A020F0&text_color=00bfbf&bg_color=0d1117" />
 </div>
