@@ -1,6 +1,8 @@
-# Hello!!! I'm Lincoln Matheus
+# Olá!!! Me chamo Lincoln Matheus e,
 
-- System Development Student at Federal Institute of Piaui (IFPI)
+- Sou estudante do Instituto Federal do Piauí(IFPI) do curso superior de Análise e Desenvolvimento de Sistemas;
+- Faço parte da Residência Tecnológica em Sistemas Embarcados(<a href="https://embarcatech.softex.br/sobre" target="_blank" title="EmbarcaTech">) pelo IFPI;
+- Atualmente desenvolvo com Sistemas Embarcados, gosto de praticar programação, andar de bicicleta e jogar jogos eletrônicos. Sempre que posso tiro fotos de plantas, pois é um dos hobbies que compartilho em casa.
 
 ## Conhecimentos em Linguagens:
 
@@ -16,6 +18,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sistemas Embarcados" height="40" width="40" title="Sistemas Embarcados" src="https://github.com/user-attachments/assets/2b9b2e60-b228-4618-bf19-a4b5c9da412c">
+  <img align="center" alt="IoT" height="40" width="40" title="IoT" src="https://github.com/user-attachments/assets/42ffad7b-74d5-495f-add5-5a414a949d05">
 </div>
 
 <div align="center">  
