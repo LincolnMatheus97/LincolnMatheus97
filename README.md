@@ -1,7 +1,7 @@
 # Olá!!! Me chamo Lincoln Matheus e,
 
 - Sou estudante do Instituto Federal do Piauí(IFPI) do curso superior de Análise e Desenvolvimento de Sistemas;
-- Faço parte da Residência Tecnológica em Sistemas Embarcados(<a href="https://embarcatech.softex.br/sobre" target="_blank" title="EmbarcaTech">EmbarcaTech) pelo IFPI;
+- Faço parte da Residência Tecnológica em Sistemas Embarcados(<p><a href="https://embarcatech.softex.br/sobre" target="_blank" title="EmbarcaTech">EmbarcaTech</p>) pelo IFPI;
 - Atualmente desenvolvo com Sistemas Embarcados, gosto de praticar programação, andar de bicicleta e jogar jogos eletrônicos. Sempre que posso tiro fotos de plantas, pois é um dos hobbies que compartilho em casa.
 
 ## Conhecimentos em Linguagens:
