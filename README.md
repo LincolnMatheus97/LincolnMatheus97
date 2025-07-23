@@ -15,7 +15,7 @@
 ### Estudando no momento:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sistemas Embarcados" height="40" width="40" src="https://github.com/user-attachments/assets/2b9b2e60-b228-4618-bf19-a4b5c9da412c" title="Sistemas Embarcados">
+  <img align="center" alt="Sistemas Embarcados" height="40" width="40" title="Sistemas Embarcados" src="https://github.com/user-attachments/assets/2b9b2e60-b228-4618-bf19-a4b5c9da412c">
 </div>
 
 <div align="center">  
