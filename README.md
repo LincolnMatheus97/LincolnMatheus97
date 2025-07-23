@@ -4,7 +4,7 @@
 - Faço parte da Residência Tecnológica em Sistemas Embarcados(<a href="https://embarcatech.softex.br/sobre" target="_blank" title="EmbarcaTech">EmbarcaTech</a>) pelo IFPI;
 - Atualmente desenvolvo com Sistemas Embarcados, gosto de praticar programação, andar de bicicleta e jogar jogos eletrônicos. Sempre que posso tiro fotos de plantas, pois é um dos hobbies que compartilho em casa.
 
-## Conhecimentos em Linguagens:
+## Linguagens de conhecimento:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">       
