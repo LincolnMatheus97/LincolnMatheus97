@@ -8,14 +8,14 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">       
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://img.icons8.com/fluency/48/c-programming.png">
-  <img align="center" alt="C++" height="30" width="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png">
+  <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/fluency/48/c-programming.png">
+  <img align="center" alt="C++" height="40" width="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png">
 </div>
 
 ### Estudando no momento:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sistemas Embarcados" height="30" width="40" src="https://github.com/user-attachments/assets/933a609c-6be0-4235-95b7-119ade8d9c01">
+  <img align="center" alt="Sistemas Embarcados" height="30" width="40" src="https://github.com/user-attachments/assets/2b9b2e60-b228-4618-bf19-a4b5c9da412c">
 </div>
 
 <div align="center">  
