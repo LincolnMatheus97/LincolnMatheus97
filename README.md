@@ -18,7 +18,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sistemas Embarcados" height="40" width="40" title="Sistemas Embarcados" src="https://github.com/user-attachments/assets/2b9b2e60-b228-4618-bf19-a4b5c9da412c">
-  <img align="center" alt="IoT" height="40" width="40" title="IoT" src="https://github.com/user-attachments/assets/42ffad7b-74d5-495f-add5-5a414a949d05">
+  <img align="center" alt="IoT" height="40" width="40" title="Internet das Coisas" src="https://github.com/user-attachments/assets/42ffad7b-74d5-495f-add5-5a414a949d05">
 </div>
 
 <div align="center">  
