@@ -1,4 +1,4 @@
-# Olá Estrageiro! Me chamo Lincoln Matheus e
+# Olá Estrangeiro! Me chamo Lincoln Matheus e
 
 - Sou estudante do Instituto Federal do Piauí(IFPI) do curso superior de Análise e Desenvolvimento de Sistemas;
 - Faço parte da Residência Tecnológica em Sistemas Embarcados(<a href="https://embarcatech.softex.br/sobre" target="_blank" title="EmbarcaTech">EmbarcaTech</a>) pelo IFPI;
