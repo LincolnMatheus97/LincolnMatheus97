@@ -21,6 +21,9 @@
   <img align="center" alt="IoT" height="40" width="40" title="Internet das Coisas" src="https://github.com/user-attachments/assets/42ffad7b-74d5-495f-add5-5a414a949d05">
   <img align="center" alt="HTML" height="40" width="40" title="HTML" src="https://github.com/user-attachments/assets/d9ca4d9c-94a1-4f85-887d-8bee73fc1452">
   <img align="center" alt="CSS" height="40" width="40" title="CSS" src="https://github.com/user-attachments/assets/534753da-1b2f-46dd-b5d1-b89351b04d71">
+  <img align="center" alt="Python" height="40" width="40" title="Python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  <img align="center" alt="FastAPI" height="40" width="40" title="FastAPI" src="https://github.com/user-attachments/assets/afe1fae6-2848-4652-8df1-d3e4780793e1">
+  <img align="center" alt="ExpressJS" height="40" width="40" title="ExpressJS" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FEFEFE">
 </div>
 
 <div align="center"><br> 
