@@ -6,21 +6,22 @@
 
 ---
 
-### Linguagens de conhecimento:
+### Tecnologias que utilizo:
 
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">       
+<div style="display: inline_block">      
   <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="C" height="40" width="40" title="C" src="https://img.icons8.com/fluency/48/c-programming.png">
   <img align="center" alt="C++" height="40" width="40" title="C++" src="https://img.icons8.com/color/48/c-plus-plus-logo.png">
+  <img align="center" width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6133745b-b79b-462a-b665-76be28d2b11e" />
   <div style="display: inline_block">
   <img align="center" alt="Sistemas Embarcados" height="40" width="40" title="Sistemas Embarcados" src="https://github.com/user-attachments/assets/2b9b2e60-b228-4618-bf19-a4b5c9da412c">
   <img align="center" alt="IoT" height="40" width="40" title="Internet das Coisas" src="https://github.com/user-attachments/assets/42ffad7b-74d5-495f-add5-5a414a949d05">
   <img align="center" alt="HTML" height="40" width="40" title="HTML" src="https://github.com/user-attachments/assets/d9ca4d9c-94a1-4f85-887d-8bee73fc1452">
   <img align="center" alt="CSS" height="40" width="40" title="CSS" src="https://github.com/user-attachments/assets/534753da-1b2f-46dd-b5d1-b89351b04d71">
-  <img align="center" alt="Python" height="40" width="40" title="Python" src="https://img.icons8.com/size=100&id=13441&format=png&color=000000">
 </div>
+
+---
 
 <div align="center"><br> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LincolnMatheus97&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
